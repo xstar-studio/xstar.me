@@ -216,6 +216,7 @@
 					<h3>網站程式</h3>
 					<hr style="border-color: #D50420">
 					<ul>
+						<li><a href="6platform/">六度月台</a></li>
 						<li><a href="https://max-liu.org/">劉其偉網路美術館</a></li>
 						<li><a href="https://long.xstar.me">龍龍資訊站</a></li>
 						<li><a href="https://redfacefruit.com">N刺果園</a></li>
