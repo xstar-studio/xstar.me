@@ -237,6 +237,7 @@
 						<li><a href="https://codepen.io/xstar/full/RBJoXJ/">悠遊卡載具隱碼轉換器</a></li>
 						<li><a href="say/">XSTAR SAY</a></li>
 						<li><a href="baby/">保母阿娟行事曆</a></li>
+						<li><a href="macinfinite-encrypt/">無限麥製 Mac Infinity</a></li>						
 					</ul>
 					<h3>開發中</h3>
 					<ul>
@@ -248,7 +249,6 @@
 					<ul>
 						<li><a href="ethan/">關於許以誠</a></li>
 						<li>刺刺星先報（自製新聞）</li>
-						<li>Mac Infinite</li>						
 						<li>春季北區大學聯合愛心義賣官網</li>
 					</ul>
 				</div>
@@ -337,6 +337,7 @@
 					<ul>
 						<li><a href="https://medium.com/@ethanhsu/%E8%87%AA%E5%B7%B1%E7%9A%84cover%E8%87%AA%E5%B7%B1%E9%8C%84-de9087f9256d" target="_blank">自己的Cover自己錄(NMC基礎錄音教學)</a></li>
 						<li><a href="https://www.youtube.com/watch?v=a_M93X7WWUM" target="_blank">刺刺星淡江選課小幫手 3.0 操作方式</a></li>
+						<li><a href="https://medium.com/starweb">Medium</a></li>
 					</ul>
 				</div>
 			</div>
@@ -358,7 +359,6 @@
 						<li><a href="https://line.me/R/ti/p/%40nqn4289o">龍龍資訊站LINE@</a></li>
 						<li><a href="https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Ethanhsu">維基百科貢獻</a></li>
 						<li><a href="https://www.facebook.com/charity.tkbm/">春季北區大學聯合愛心義賣</a></li>
-						<li><a href="https://medium.com/@ethanhsu">Medium</a></li>
 						<li><a href="https://stackoverflow.com/users/7834090/ethan?tab=activity">Stack Overflow Contribution</a></li>
 						<li>Google Translate Community Contribution</li>
 						<li>Facebook Translations Contribution</li>
